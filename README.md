@@ -1,5 +1,6 @@
 # Scribble
 ![Logo](img/logo.svg)
+
 **Description:**  
 `Scribble` is a Python project that converts images into C++ code for Vex V5 image display.
 
